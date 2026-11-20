@@ -1,8 +1,0 @@
-# Only Markdown and PDF files are tracked in this repo
-*
-!*/
-!*.md
-!*.MD
-!*.pdf
-!*.PDF
-!.gitignore
