@@ -2,4 +2,4 @@
 
 Parent folder for my GitHub repos.
 
-This repo contains only Markdown (`.md`), PDF (`.pdf`) and Word (`.docx`) files.
+This repo contains only Markdown (`.md`) and PDF (`.pdf`) files.
