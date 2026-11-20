@@ -6,3 +6,5 @@
 !*.pdf
 !*.PDF
 !.gitignore
+!*.docx
+!*.DOCX
